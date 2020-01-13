@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6cd4023cd07fd20b5162b34eeea10af7",
+    "revision": "6afc36572d1552955fe44e266c73eae1",
     "url": "/orangeClock/index.html"
   },
   {
-    "revision": "b11cc0301bcbd80369df",
-    "url": "/orangeClock/static/css/main.426c92ce.chunk.css"
+    "revision": "f5ca20488a11d9c5f173",
+    "url": "/orangeClock/static/css/main.90053a7f.chunk.css"
   },
   {
     "revision": "dfbc77c8975eb85f6bf7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/orangeClock/static/js/2.3504b083.chunk.js.LICENSE"
   },
   {
-    "revision": "b11cc0301bcbd80369df",
-    "url": "/orangeClock/static/js/main.3a63a166.chunk.js"
+    "revision": "f5ca20488a11d9c5f173",
+    "url": "/orangeClock/static/js/main.615006a7.chunk.js"
   },
   {
     "revision": "5afa584ac587c8cdd45e",
