@@ -8,9 +8,9 @@ body {
   background-image: "url(" + orange+  ".png" + ")";
   height: 50%;
   width: 50%;
-  background-size: `cover`;
-  background-repeat: `no-repeat`;
-  background-position: `center`;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 code {

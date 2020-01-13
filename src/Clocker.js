@@ -22,7 +22,7 @@ export default class Clocker extends React.Component {
       color: `rgba(92, 138, 39, .5)`,
       marginLeft: `auto`,
       marginRight: `auto`,
-      fontSize: `240px`,
+      fontSize: `24px`,
       textShadow: `8px 8px 16px orange, 10px 10px 20px red`
     }
 
