@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/orangeClock/static/css/main.2ff110d8.chunk.css",
+    "main.css": "/orangeClock/static/css/main.426c92ce.chunk.css",
     "main.js": "/orangeClock/static/js/main.3a63a166.chunk.js",
     "main.js.map": "/orangeClock/static/js/main.3a63a166.chunk.js.map",
     "runtime-main.js": "/orangeClock/static/js/runtime-main.df222924.js",
@@ -8,16 +8,16 @@
     "static/js/2.3504b083.chunk.js": "/orangeClock/static/js/2.3504b083.chunk.js",
     "static/js/2.3504b083.chunk.js.map": "/orangeClock/static/js/2.3504b083.chunk.js.map",
     "index.html": "/orangeClock/index.html",
-    "precache-manifest.48be4eda32e25a988385fb3185238f21.js": "/orangeClock/precache-manifest.48be4eda32e25a988385fb3185238f21.js",
+    "precache-manifest.7aea4671cf4262c3bbb35e47765aa19e.js": "/orangeClock/precache-manifest.7aea4671cf4262c3bbb35e47765aa19e.js",
     "service-worker.js": "/orangeClock/service-worker.js",
-    "static/css/main.2ff110d8.chunk.css.map": "/orangeClock/static/css/main.2ff110d8.chunk.css.map",
+    "static/css/main.426c92ce.chunk.css.map": "/orangeClock/static/css/main.426c92ce.chunk.css.map",
     "static/js/2.3504b083.chunk.js.LICENSE": "/orangeClock/static/js/2.3504b083.chunk.js.LICENSE",
     "static/media/orange.png": "/orangeClock/static/media/orange.4f55dbf8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.df222924.js",
     "static/js/2.3504b083.chunk.js",
-    "static/css/main.2ff110d8.chunk.css",
+    "static/css/main.426c92ce.chunk.css",
     "static/js/main.3a63a166.chunk.js"
   ]
 }
